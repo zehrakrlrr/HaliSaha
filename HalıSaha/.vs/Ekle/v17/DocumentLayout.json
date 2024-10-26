@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|c:\\users\\keski\\desktop\\mis\\mis\\ekle\\personeldurumu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|solutionrelative:personeldurumu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\halisahadurum.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|solutionrelative:halisahadurum.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\gorusme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|solutionrelative:gorusme.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|solutionrelative:add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1B429B3-E38A-4578-9DBC-16D8CF46C90D}|Ekle.csproj|solutionrelative:add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonelDurumu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\PersonelDurumu.aspx.cs",
+              "RelativeDocumentMoniker": "PersonelDurumu.aspx.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\PersonelDurumu.aspx.cs",
+              "RelativeToolTip": "PersonelDurumu.aspx.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAkwHwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:53:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HalisahaDurum.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\HalisahaDurum.aspx.cs",
+              "RelativeDocumentMoniker": "HalisahaDurum.aspx.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\HalisahaDurum.aspx.cs",
+              "RelativeToolTip": "HalisahaDurum.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvzwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:53:31.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gorusme.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\Gorusme.aspx.cs",
+              "RelativeDocumentMoniker": "Gorusme.aspx.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\Gorusme.aspx.cs",
+              "RelativeToolTip": "Gorusme.aspx.cs",
+              "ViewState": "AQIAALgBAAAAAAAAAAAkwNABAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:49:37.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\Add.aspx.cs",
+              "RelativeDocumentMoniker": "Add.aspx.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\Add.aspx.cs",
+              "RelativeToolTip": "Add.aspx.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAswM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:25:46.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.aspx",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\Add.aspx",
+              "RelativeDocumentMoniker": "Add.aspx",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\MIS\\MIS\\Ekle\\Add.aspx",
+              "RelativeToolTip": "Add.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-17T11:23:20.246Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 449,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
